@@ -6,7 +6,7 @@
  - Eterno estudante.
  - Freelancer em[@dsoluções](https://www.instagram.com/dsolucoes_).
  - Portfolio **aqui**.
- - Contato: [romao.carlosdavi@gmail.com](romao.carlosdavi@gmail.com)
+ - Contato: [romao.carlosdavi@gmail.com](mailto:romao.carlosdavi@gmail.com)
  
  <p align="center">
 <a href="https://twitter.com/carlosdavi0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30" width="30" /></a>
