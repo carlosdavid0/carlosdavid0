@@ -3,9 +3,7 @@
 
 
  - Programador 👨‍💻.
- - Eterno estudante.
  - Freelancer em[@dsoluções](https://www.instagram.com/dsolucoes_).
- - Portfolio **aqui**.
  - Contato: [romao.carlosdavi@gmail.com](mailto:romao.carlosdavi@gmail.com)
  
  <p align="center">
