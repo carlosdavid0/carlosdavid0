@@ -1,18 +1,30 @@
 <h1 align="center">Olá<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou Carlos David 🇧🇷</h1>
-<h3 align="center">Programação | Geek | e muito mais </h3>
+<h3 align="center">Programmer | Freelancer | Full-Stack Developer </h3>
 
+<div>
+  <a href="https://github.com/carlosdavid0">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosdavid0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdavid0&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
- - Programador 👨‍💻.
- - Freelancer em[@dsoluções](https://www.instagram.com/dsolucoes_).
- - Contato: [romao.carlosdavi@gmail.com](mailto:romao.carlosdavi@gmail.com)
+ <div style="display: inline_block"><br>
+  <img align="center" alt="David-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="David-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="David-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="David-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="David-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
  
- <p align="center">
-<a href="https://twitter.com/carlosdavi0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/carlos-david-romao-barbosa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
-<a href="https://fb.com/carlosdavidofc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30" width="30" /></a>
-<a href="https://instagram.com/carlosdavi0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30" width="30" /></a>
-</p>
- 
+ ## 
+
+<div> 
+  
+  <a href="https://instagram.com/carlosdavid.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/carlosdavi0" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href = "mailto:romao.carlosdavi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/carlosdavid0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+</div>
 
 
 <!--
