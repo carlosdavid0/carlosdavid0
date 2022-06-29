@@ -1,5 +1,11 @@
-<h1 align="center">Olá<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou Carlos David 🇧🇷</h1>
+<h1 align="center">Olá, Eu sou Carlos David 🇧🇷</h1>
 <h3 align="center">Programmer | Freelancer | Full-Stack Developer </h3>
+
+
+Atualmente sou Devops Junior I na empresa Online Telecom e Co-fundador da empresa Dsoluções 
+
+Sou completamente apaixonado por desenvolvimento web e arquiteturas de software, sempre realizando estudos constante procurando atingir o próximo nível em grandes plataformas, tais como, Rocketseat, Digital innovation, Alura, Full Cycle e entre outras.
+
 
 <div>
   <a href="https://github.com/carlosdavid0">
